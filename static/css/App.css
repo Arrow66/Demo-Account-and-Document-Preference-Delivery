@@ -1,0 +1,30 @@
+.App {
+    text-align: center;
+}
+
+.App-header {
+    background-color: #647882;
+    height: 50px;
+    padding: 20px;
+    color: white;
+}
+
+.App-title {
+    font-size: 1.5em;
+}
+
+.App-intro {
+    font-size: large;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+.detailsdiv {
+    min-height: 200px;
+}
